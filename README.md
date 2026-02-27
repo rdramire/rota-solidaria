@@ -74,7 +74,7 @@ Projeto desenvolvido voluntariamente por:
 | Nome | Contato |
 |---|---|
 | Tales Giuliano Vieira | [LinkedIn](https://www.linkedin.com/in/peritotales) |
-| _Seu nome aqui_ | _Seu LinkedIn ou contato_ |
+| Ramire Rangel | [LinkedIn](https://www.linkedin.com/in/ramirerangel) |
 
 > Quer fazer parte? Abra uma issue ou envie um Pull Request!
 
